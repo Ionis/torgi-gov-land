@@ -1,0 +1,7 @@
+/config/production.json
+/composer.lock
+/vendor
+/.idea
+/node_modules
+.env
+/config/production.json

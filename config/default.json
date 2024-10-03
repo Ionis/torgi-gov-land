@@ -1,0 +1,11 @@
+{
+  "TG_TOKEN": "",
+  "TG_CLIENT": "",
+
+  "DB_HOST": "localhost",
+  "DB_USER": "",
+  "DB_PASSWORD": "",
+  "DB_NAME": "",
+
+  "PROXY_URL": "socks5://login:password@address:port"
+}
